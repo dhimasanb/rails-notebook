@@ -19,4 +19,12 @@ class NotesController < ApplicationController
 
   def destroy
   end
+
+  private
+
+  def find_note
+  end
+
+  def note_params
+  end
 end
