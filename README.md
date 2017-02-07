@@ -1,6 +1,6 @@
-# Rails Notebook
+# Rails Dribbble
 
-Simple Web Note based on Rails 5 with SQLite & Haml Template Engine
+Example Simple Web based Rails 5 with SQLite similar Dribbble
 
 ## Built With
 
@@ -11,7 +11,10 @@ Simple Web Note based on Rails 5 with SQLite & Haml Template Engine
 * [Haml](https://rubygems.org/gems/haml) - Abstraction Markup Language
 * [Simple Form](https://rubygems.org/gems/simple_form) - Create Easy Form
 * [Devise](https://rubygems.org/gems/devise) - Flexible Auth with Warden
+* [Paperclip](https://rubygems.org/gems/paperclip) - Easy Upload Management
+* [Acts as Votable](https://rubygems.org/gems/acts_as_votable/versions/0.10.0) - Allowing Records to be Votable
 
 ## Thanks
 Thanks to **[Mackenzie Child](https://github.com/mackenziechild/)**
-Tutorial : **https://www.youtube.com/watch?v=bDbPiaVl2g4&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=11**
+
+Tutorial : **https://www.youtube.com/watch?v=70Pu_28yvdI&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=12**
